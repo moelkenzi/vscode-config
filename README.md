@@ -2,9 +2,13 @@
 
 > 🎯 A professionally curated VSCode setup featuring Material Theme Ocean, JetBrains Mono font, smart coding features, and AI-powered assistance. Perfect for developers who value both productivity and aesthetics.
 
+<div align="center">
+
 ![VSCode Version](https://img.shields.io/badge/VSCode-1.80+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+
+</div>
 
 Welcome to my personal VSCode setup! This repository contains carefully curated settings and configurations that make coding more enjoyable and productive. 💻
 
