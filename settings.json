@@ -1,0 +1,32 @@
+{
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "workbench.iconTheme": "symbols",
+  "editor.fontFamily": "Jetbrains Mono, Cascadia Code",
+  "editor.fontSize": 13,
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "javascript.preferences.quoteStyle": "double",
+  "typescript.preferences.quoteStyle": "double",
+  "editor.mouseWheelZoom": true,
+  "files.autoSave": "onFocusChange",
+  "explorer.confirmDelete": false,
+  "window.titleBarStyle": "custom",
+  "explorer.expandSingleFolderWorkspaces": false,
+  "terminal.integrated.cursorBlinking": true,
+  "editor.cursorBlinking": "expand",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.smoothScrolling": true,
+  "explorer.compactFolders": false,
+  "workbench.colorCustomizations": {
+    "terminal.background": "#00000000"
+  },
+  "workbench.settings.applyToAllProfiles": ["workbench.colorCustomizations"],
+  "codeium.enableCodeLens": false,
+  "bitoAI.codeCompletion.enableAutoCompletion": false,
+  "bitoAI.codeCompletion.enableCommentToCode": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "editor.minimap.autohide": true
+}
