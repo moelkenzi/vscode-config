@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
-<img src="images/image.png" alt="VSCode Theme Preview" width="800"/>
+![VSCode Theme Preview](images/image.png)
 
 </div>
 
