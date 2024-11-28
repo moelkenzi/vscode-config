@@ -8,9 +8,14 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
+<img src="images/image.png" alt="VSCode Theme Preview" width="800"/>
+
 </div>
 
-Welcome to my personal VSCode setup! This repository contains carefully curated settings and configurations that make coding more enjoyable and productive. 💻
+<div align="center">
+<h3>✨ Elevate Your Coding Experience ✨</h3>
+<p><em>A meticulously crafted VSCode environment combining elegant aesthetics with powerful functionality</em> 🚀</p>
+</div>
 
 ## Features ✨
 - **Modern Theme**: Material Theme Ocean High Contrast with transparent terminal
