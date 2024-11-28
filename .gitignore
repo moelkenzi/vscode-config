@@ -1,8 +1,3 @@
-# Ignore images folder
-images/
-# Except the .gitkeep file to maintain the directory structure
-!images/.gitkeep
-
 # OS generated files
 .DS_Store
 .DS_Store?
