@@ -1,32 +1,49 @@
 {
+  // Editor Appearance
   "workbench.colorTheme": "Material Theme Ocean High Contrast",
   "workbench.iconTheme": "symbols",
-  "editor.fontFamily": "Jetbrains Mono, Cascadia Code",
-  "editor.fontSize": 13,
-  "editor.fontLigatures": true,
-  "editor.formatOnPaste": true,
-  "editor.formatOnType": true,
   "workbench.startupEditor": "newUntitledFile",
-  "javascript.preferences.quoteStyle": "double",
-  "typescript.preferences.quoteStyle": "double",
-  "editor.mouseWheelZoom": true,
-  "files.autoSave": "onFocusChange",
-  "explorer.confirmDelete": false,
-  "window.titleBarStyle": "custom",
-  "explorer.expandSingleFolderWorkspaces": false,
-  "terminal.integrated.cursorBlinking": true,
-  "editor.cursorBlinking": "expand",
-  "editor.bracketPairColorization.enabled": true,
-  "editor.smoothScrolling": true,
-  "explorer.compactFolders": false,
   "workbench.colorCustomizations": {
     "terminal.background": "#00000000"
   },
-  "workbench.settings.applyToAllProfiles": ["workbench.colorCustomizations"],
+  "workbench.settings.applyToAllProfiles": [
+    "workbench.colorCustomizations"
+  ],
+
+  // Editor Font Settings
+  "editor.fontFamily": "Jetbrains Mono, Cascadia Code",
+  "editor.fontSize": 13,
+  "editor.fontLigatures": true,
+
+  // Editor Behavior
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.mouseWheelZoom": true,
+  "editor.cursorBlinking": "expand",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.smoothScrolling": true,
+  "editor.minimap.enabled": false,
+  "editor.minimap.autohide": true,
+
+  // File Management
+  "files.autoSave": "onFocusChange",
+  "explorer.confirmDelete": false,
+  "explorer.expandSingleFolderWorkspaces": false,
+  "explorer.compactFolders": false,
+
+  // Language Specific
+  "javascript.preferences.quoteStyle": "double",
+  "typescript.preferences.quoteStyle": "double",
+
+  // Terminal Settings
+  "terminal.integrated.cursorBlinking": true,
+
+  // Window Settings
+  "window.titleBarStyle": "custom",
+
+  // AI Assistants Configuration
   "codeium.enableCodeLens": false,
   "bitoAI.codeCompletion.enableAutoCompletion": false,
-  "bitoAI.codeCompletion.enableCommentToCode": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.minimap.enabled": false,
-  "editor.minimap.autohide": true
+  "bitoAI.codeCompletion.enableCommentToCode": true
 }
