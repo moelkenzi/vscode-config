@@ -2,7 +2,6 @@
   // Editor Appearance
   "workbench.colorTheme": "Material Theme Ocean High Contrast",
   "workbench.iconTheme": "symbols",
-  "workbench.startupEditor": "newUntitledFile",
   "workbench.colorCustomizations": {
     "terminal.background": "#00000000"
   },
